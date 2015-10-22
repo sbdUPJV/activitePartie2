@@ -1,0 +1,6 @@
+Ce qu'il reste à faire :
+
+- tester les codes
+- stocker les personnes à qui dire bonjour dans une base de données
+- écrire les modèles
+- passer en MVC
