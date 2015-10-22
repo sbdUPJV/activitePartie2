@@ -4,3 +4,5 @@ Ce qu'il reste à faire :
 - stocker les personnes à qui dire bonjour dans une base de données
 - écrire les modèles
 - passer en MVC
+- ajouter des tests unitaires
+- gérer un backend de saisie des noms et autres infos
