@@ -1,4 +1,9 @@
 <?php
-echo "bonjour à tous";
+$tableNames = array("Marc", "Stéphane");
 
+foreach($tableNames as $name) :
+
+	echo "bonjour " . $name;
+
+endforeach;
 ?>
